@@ -5,7 +5,7 @@
 - 📫 How to reach me sputhnika.karra@hotmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Night Owl
-- 💻 I work on: 
+- 💻 I work on: Java, spring Boot, Git, Microservices, MySQL, AWS.
 
 <!---
 Sputhnika-karra/Sputhnika-karra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
